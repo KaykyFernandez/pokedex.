@@ -19,13 +19,6 @@ Pokedex offers the following features:
 - View top-rated Pokemon based on their stats
 - Explore Pokemon evolutions and their evolutionary paths
 
-## Installation
-
-To install Pokedex, follow these steps:
-
-1. Download the source code from the repository
-2. Extract the files from the downloaded ZIP archive.
-3. Open the `index.html` file in your web browser.
 
 ## Usage
 
