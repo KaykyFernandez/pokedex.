@@ -19,13 +19,6 @@ Pokedex offers the following features:
 - View top-rated Pokemon based on their stats
 - Explore Pokemon evolutions and their evolutionary paths
 
-
-## Usage
-
-Once you have installed Pokedex, you can use it by opening it in your web browser. You can search for Pokemon using the search bar or browse through the list of all Pokemon. Clicking on a Pokemon will display its detailed information, including its types, abilities, stats, and evolutions.
-
-
-
 ## Credits
 
 Pokedex uses the following open source libraries and APIs:
