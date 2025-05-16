@@ -1,5 +1,4 @@
-# Pokedex
-[![Visit My Website](https://img.shields.io/badge/Visit%20My-Website-blue?style=for-the-badge&logo=arrow-right&logoColor=white)](https://lazyjinchuriki.github.io/pokedex/)
+
 
 Pokedex is a web application that serves as a comprehensive guide to Pokemon. It allows users to search for information on different Pokemon species, including their characteristics, abilities, types, and evolutions. The website is built using basic HTML, CSS, and vanilla JavaScript, and it utilizes the PokeAPI to fetch data on Pokemon.
 
